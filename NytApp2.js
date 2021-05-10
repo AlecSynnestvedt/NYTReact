@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import NytResults from './NytResults'
 
 const baseURL = 'https://api/nytimes.com/svc/search/v2/articlesearch.json';
-const key = 'PY7QGMTkKGcikCNp3KfpPnAqSi5F8uGM';
+const key = '0WdnuN0cooMZYhB1DzKdYyYGk5MLryZd';
 
 const [ search, setSearch ] = useState('');
 const [ startDate, setStartDate ] = useState('');
